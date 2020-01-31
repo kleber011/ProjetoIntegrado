@@ -105,6 +105,10 @@ img{
     border-radius: 10px;
 }
 
+#centro{
+  margin-top: 20px;
+}
+
 article{
     color:#666666;
     text-decoration: none;
